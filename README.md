@@ -1,7 +1,7 @@
 ### Hello World!
 
 
-- 🔭 Trabalho com desenvolvimento Backend
+- 🔭 Trabalho com desenvolvimento de Software
 - 🌱 Estudando java, Spring Boot, Quarkus, Docker, kubernetes, Cloud, Front end
 - 💬 Email: vinicius_hora@live.com
 
