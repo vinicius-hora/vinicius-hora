@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com desenvolvimento de Software
-- 🌱 Estudando java, Spring Boot, Quarkus, Docker, kubernetes, Cloud, Front end
+- 🌱 java, Spring Boot, Golang, Docker, kubernetes, Cloud
 - 💬 Email: vinicius_hora@live.com
 
 <div>
